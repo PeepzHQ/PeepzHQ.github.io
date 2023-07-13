@@ -1,0 +1,62 @@
+This folder: /media/daniella/B/git/Sociflow/PeepzHQ/Site
+
+  File: ./icon.png
+  Size: 22604     	Blocks: 48         IO Block: 4096   regular file
+Device: 8,20	Inode: 4141399     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-07-08 19:29:47.423063200 -0300
+Modify: 2023-07-08 19:29:47.423063200 -0300
+Change: 2023-07-08 19:29:47.423063200 -0300
+ Birth: -
+IPFS hash: QmNzmf1uatVY3nL9p3ytDPuturvYzJoRjBofSiySUx6ipB
+------------------------------
+  File: ./icon.svg
+  Size: 9143      	Blocks: 24         IO Block: 4096   regular file
+Device: 8,20	Inode: 4116866     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-07-08 19:29:47.423063200 -0300
+Modify: 2023-07-08 19:29:47.423063200 -0300
+Change: 2023-07-08 19:29:47.423063200 -0300
+ Birth: -
+IPFS hash: QmYZggiksiu8poUS1miRmujDkHpRQUCzzRLPdy5aRAjfWy
+------------------------------
+  File: ./img
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 8,20	Inode: 4166675     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-07-13 19:45:24.037155200 -0300
+Modify: 2023-07-13 19:45:23.707307400 -0300
+Change: 2023-07-13 19:45:23.707307400 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./index.html
+  Size: 8824      	Blocks: 24         IO Block: 4096   regular file
+Device: 8,20	Inode: 4146301     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-07-13 17:12:37.124233400 -0300
+Modify: 2023-07-13 17:12:35.234142300 -0300
+Change: 2023-07-13 19:45:23.662449000 -0300
+ Birth: -
+IPFS hash: QmNNHm7wKvCVqLaU3NcVkvAC1csGMnjzbfyv6zx9XMebkU
+------------------------------
+  File: ./older
+  Size: 0         	Blocks: 0          IO Block: 4096   directory
+Device: 8,20	Inode: 4166135     Links: 1
+Access: (0777/drwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-07-13 17:17:27.153713100 -0300
+Modify: 2023-07-13 17:17:27.145467000 -0300
+Change: 2023-07-13 17:17:27.145467000 -0300
+ Birth: -
+IPFS hash: 
+------------------------------
+  File: ./README.md
+  Size: 20        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 4166210     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-07-13 17:18:16.099222100 -0300
+Modify: 2023-07-13 17:17:41.339592900 -0300
+Change: 2023-07-13 17:17:41.516850100 -0300
+ Birth: -
+IPFS hash: QmUS5gGYXerE6hDMgobn74cXHbDQ21ZdF4EhfBuSE7UBWB
+------------------------------
