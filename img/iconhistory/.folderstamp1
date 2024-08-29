@@ -1,0 +1,65 @@
+This folder: /media/daniella/Ubuntu/peepz icon history
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 98        	Blocks: 8          IO Block: 4096   regular file
+Device: 8,50	Inode: 150409      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-27 14:54:39.051412800 -0300
+Modify: 2024-08-27 14:54:39.082416600 -0300
+Change: 2024-08-27 14:54:39.082416600 -0300
+ Birth: 2024-08-27 14:54:39.051412800 -0300
+IPFS hash: QmSX9CncJyUqQLoHAJdURrUbr9H7H6tYphX7Stn3u9ND3d
+------------------------------
+  File: ./1.png
+  Size: 1269      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,50	Inode: 150406      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-27 14:53:47.065410600 -0300
+Modify: 2016-08-08 20:12:31.000000000 -0300
+Change: 2024-08-27 14:53:49.279731900 -0300
+ Birth: 2024-08-27 14:53:46.802372300 -0300
+IPFS hash: QmVhewaBNN5cHL7dcB2pKUrTcmJQbJeb3YNt7QXN2HvMP3
+------------------------------
+  File: ./2.svg
+  Size: 4593      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,50	Inode: 150407      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-27 14:53:58.332022800 -0300
+Modify: 2023-07-08 19:30:55.720077200 -0300
+Change: 2024-08-27 14:54:00.369308500 -0300
+ Birth: 2024-08-27 14:53:58.093989400 -0300
+IPFS hash: Qmcs8soEcsbhkP1cGnNFGLupy66qf9cfnoE73bTXSdPjs9
+------------------------------
+  File: ./3.svg
+  Size: 9164      	Blocks: 24         IO Block: 4096   regular file
+Device: 8,50	Inode: 150405      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-27 14:53:27.831525500 -0300
+Modify: 2024-08-27 14:53:25.409149700 -0300
+Change: 2024-08-27 14:53:36.709878600 -0300
+ Birth: 2024-08-27 14:53:25.398148000 -0300
+IPFS hash: Qmbphp4nddp2d6z28QPHAq135PxWBsJAnyW2wnKcyvVLAR
+------------------------------
+  File: ./4.svg
+  Size: 5478      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,50	Inode: 150408      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-27 14:54:27.937006000 -0300
+Modify: 2023-12-03 03:39:06.678881600 -0300
+Change: 2024-08-27 14:54:30.341314200 -0300
+ Birth: 2024-08-27 14:54:27.689974100 -0300
+IPFS hash: QmQdpXUZxPMo4QwgfgQuTHLnLNkSb4ia7JtcFRVVWnio9r
+------------------------------
+  File: ./5.svg
+  Size: 4576      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,50	Inode: 150403      Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-27 14:52:33.835424800 -0300
+Modify: 2024-08-26 22:15:16.893937100 -0300
+Change: 2024-08-27 14:54:33.286688800 -0300
+ Birth: 2024-08-27 14:52:31.439983300 -0300
+IPFS hash: QmeRCf85UaWjryrvctK9hhMq4uLorV1h6pvNoXgJVemx7W
+------------------------------

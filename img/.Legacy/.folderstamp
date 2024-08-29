@@ -1,0 +1,115 @@
+This folder: /media/daniella/B/git/Sociflow/PeepzHQ/Site/img
+
+folderstamp version: r5
+Method: Recursive
+
+  File: ./.folderstamp
+  Size: 104       	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 2187611     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-28 00:34:09.429568000 -0300
+Modify: 2024-08-28 00:34:09.456570300 -0300
+Change: 2024-08-28 00:34:09.456570300 -0300
+ Birth: 2024-08-28 00:34:09.429568000 -0300
+IPFS hash: QmaqyUeZjGQpjTXVSbd9NrvuJjEWqLZ8G5PFNaGCyuXnyf
+------------------------------
+  File: ./favicon.png
+  Size: 1269      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,52	Inode: 4146297     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-27 13:56:30.219897800 -0300
+Modify: 2016-08-08 20:12:31.000000000 -0300
+Change: 2023-07-13 19:45:23.707267300 -0300
+ Birth: 2023-03-25 17:09:35.240126500 -0300
+IPFS hash: QmVhewaBNN5cHL7dcB2pKUrTcmJQbJeb3YNt7QXN2HvMP3
+------------------------------
+  File: ./loading.gif
+  Size: 147373    	Blocks: 288        IO Block: 4096   regular file
+Device: 8,52	Inode: 4146296     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-27 13:56:30.127910700 -0300
+Modify: 2016-08-08 20:12:33.000000000 -0300
+Change: 2023-07-13 19:45:23.701043500 -0300
+ Birth: 2023-03-25 17:09:35.229156000 -0300
+IPFS hash: QmeeWXR9UyJgnUp9ydpGqcUnkfszSpaf94m8icuSfYUAVT
+------------------------------
+  File: ./logo.png
+  Size: 12436     	Blocks: 32         IO Block: 4096   regular file
+Device: 8,52	Inode: 4146295     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-27 13:56:30.114912500 -0300
+Modify: 2016-08-08 20:12:33.000000000 -0300
+Change: 2023-07-13 19:45:23.694540600 -0300
+ Birth: 2023-03-25 17:09:35.223605300 -0300
+IPFS hash: QmaLRTgKSYdZ5ihwhpSLD9jkcTRcq3JKALbhi68h7fdgac
+------------------------------
+  File: ./new/.folderstamp1
+  Size: 17660     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,52	Inode: 2465899     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-27 15:40:44.200053000 -0300
+Modify: 2024-08-27 15:00:21.040659900 -0300
+Change: 2024-08-28 00:33:30.624246700 -0300
+ Birth: 2024-08-28 00:33:26.382866300 -0300
+IPFS hash: QmTNUZ9vJ6VGWhki6PBmXvsw5iugxMaJkrZkp9rL9XfV6Y
+------------------------------
+  File: ./new/.folderstamp1.log.html5
+  Size: 12991     	Blocks: 32         IO Block: 4096   regular file
+Device: 8,52	Inode: 2520676     Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-27 15:40:44.832045700 -0300
+Modify: 2024-08-27 15:00:42.764846000 -0300
+Change: 2024-08-28 00:33:34.257569700 -0300
+ Birth: 2024-08-28 00:33:26.408868600 -0300
+IPFS hash: QmafbAmndmGxB8CvqKMfQQrxpDt5Dk3o8QxXWUZBY2oTMQ
+------------------------------
+  File: ./new/icon.svg
+  Size: 4576      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,52	Inode: 2261411     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-28 00:33:16.585974200 -0300
+Modify: 2024-08-26 22:15:16.893937100 -0300
+Change: 2024-08-28 00:33:16.403957500 -0300
+ Birth: 2024-08-28 00:33:16.384955700 -0300
+IPFS hash: QmeRCf85UaWjryrvctK9hhMq4uLorV1h6pvNoXgJVemx7W
+------------------------------
+  File: ./new/icon_pride.svg
+  Size: 5729      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,52	Inode: 2452405     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-28 00:33:16.571973000 -0300
+Modify: 2024-08-26 22:14:24.924330800 -0300
+Change: 2024-08-28 00:33:16.452962000 -0300
+ Birth: 2024-08-28 00:33:16.440960900 -0300
+IPFS hash: QmWbYXwjJWcb3XQ1qJT4V2HCJnD3vmEu1NqgxM7Yv9AscM
+------------------------------
+  File: ./pioneerbadge.png
+  Size: 14371     	Blocks: 32         IO Block: 4096   regular file
+Device: 8,52	Inode: 4146294     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-27 13:56:30.150907500 -0300
+Modify: 2016-08-08 20:16:08.000000000 -0300
+Change: 2023-07-13 19:45:23.687984700 -0300
+ Birth: 2023-03-25 17:09:35.218301700 -0300
+IPFS hash: QmcfXT7pKJ67EiDxtm6tVZWVQkXtAs3ss4gzcqsiutS9i1
+------------------------------
+  File: ./plasmmerbadge.png
+  Size: 7373      	Blocks: 16         IO Block: 4096   regular file
+Device: 8,52	Inode: 4146293     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-27 13:56:30.192901600 -0300
+Modify: 2016-08-08 20:16:08.000000000 -0300
+Change: 2023-07-13 19:45:23.681834800 -0300
+ Birth: 2023-03-25 17:09:35.212664300 -0300
+IPFS hash: QmYaZYxFn2ndi1NWPiYhxTiRf8L8SAUr7uPv8Rc8NUgxGv
+------------------------------
+  File: ./sopbadge.png
+  Size: 11443     	Blocks: 24         IO Block: 4096   regular file
+Device: 8,52	Inode: 4146292     Links: 1
+Access: (0755/-rwxr-xr-x)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2024-08-27 13:56:30.164905500 -0300
+Modify: 2016-08-08 20:16:07.000000000 -0300
+Change: 2023-07-13 19:45:23.674302800 -0300
+ Birth: 2023-03-25 17:09:35.203625900 -0300
+IPFS hash: Qmexpf2gWB8BffVgqWF2g5HVpFEnVrCQfdkQL7AAGWC4ux
+------------------------------
